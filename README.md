@@ -8,7 +8,7 @@ Python 3 or above
 
 ## How to run:
 
-Run `python SSSMarket.py`
+Run `python3 SSSMarket.py`
 
 ## Demo stock symbols:
 
@@ -25,4 +25,6 @@ TEA - POP - ALE - GIN - JOE
 
 5 - Calculate GBCE of all shares
 
-6 - Leave (Quit the application)
+6 - Run Unit Tests
+
+7 - Leave (Quit the application)
